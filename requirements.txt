@@ -1,0 +1,16 @@
+# Core Python utilities
+streamlit
+python-dotenv
+
+# LangChain core and ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+
+# Vector store
+faiss-cpu  # For local CPU-based FAISS index
+
+# OpenAI SDK (required for some LangChain integrations)
+openai
