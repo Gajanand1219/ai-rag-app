@@ -52,7 +52,41 @@ This is a **Retrieval-Augmented Generation (RAG)** application built to answer *
 ---
 
 ## ⚙️ Setup Instructions
+## 🚀 Getting Started
 
+Follow these steps to install and run the AI-Powered RAG Physics Q&A Assistant on your own machine:
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Gajanand1219/ai-rag-app.git
+cd ai-rag-app
+
+# On macOS/Linux:
+python -m venv venv
+source venv/bin/activate
+
+# On Windows:
+python -m venv venv
+venv\Scripts\activate
+
+
+pip install -r requirements.txt
+
+# Azure OpenAI settings
+AZURE_API_KEY=your_actual_key_here
+AZURE_ENDPOINT=https://your-resource-name.openai.azure.com/
+AZURE_DEPLOYMENT_NAME=gpt-4o
+AZURE_API_VERSION=2024-05-01-preview
+
+# If using a Streamlit interface
+streamlit run app.py
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------....
 ### 1. Clone the Repository
 
 ```bash
