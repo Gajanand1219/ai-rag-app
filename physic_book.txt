@@ -1,0 +1,26 @@
+Chapter 1: Electric Charges and Fields
+
+1.1 Introduction:
+Electricity has been known since ancient times, but scientific understanding began with the study of electric charges and their behavior.
+
+1.2 Electric Charge:
+Charge is a fundamental property of matter that causes it to experience a force when placed in an electric and magnetic field. There are two types of charges: positive and negative. Like charges repel, unlike charges attract.
+
+1.3 Conductors and Insulators:
+Materials that allow electric charges to flow freely are called conductors. Metals like copper and aluminum are good conductors. Insulators, such as rubber and plastic, do not allow free flow of electric charge.
+
+1.4 Charging by Induction:
+It is a method of charging a body without direct contact. A charged object is brought near a neutral object, and due to the electric field, charges in the neutral object get rearranged.
+
+1.5 Coulomb’s Law:
+It states that the force between two point charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them.
+Mathematically,
+\[ F = \frac{1}{4\pi\epsilon_0} \cdot \frac{q_1 q_2}{r^2} \]
+
+1.6 Electric Field:
+The region around a charged object where its influence can be felt is called the electric field. It is a vector quantity and is defined as the force per unit charge.
+
+1.7 Electric Field Lines:
+Electric field lines are imaginary
+
+my name is Gaju
